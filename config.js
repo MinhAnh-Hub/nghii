@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'nghii mỡ à!',
+    introTitle: 'em à!',
     introDesc: `Đôi khi lỡ hẹn một giờ
 Lần sau muốn gặp phải chờ trăm năm.`,
     btnIntro: 'hihi',
@@ -13,5 +13,5 @@ Lần sau muốn gặp phải chờ trăm năm.`,
     mess: 'Anh biết mà 🥰. Yêu công chúa nhiều nhiều 😘😘',
     messDesc: 'Tối nay mình call cho nhau nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.comh/MinAnhSg' 
+    messLink: 'http://fb.com/MinAnhSg' 
 }
